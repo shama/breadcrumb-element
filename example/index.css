@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  float: left;
+  margin-right: 1em;
+  padding: 0;
+  margin: 0;
+}
+button {
+  background: transparent;
+  border: none;
+  text-decoration: underline;
+  font-size: 2em;
+  cursor: pointer;
+}
+button:hover {
+  color: #a9ce7f;
+  text-decoration: none;
+}
+button:focus {
+  outline: none;
+}
